@@ -10,7 +10,7 @@
 <channel>
 	<title>Troutier</title>
 	<atom:link href="http://localhost/troutier-local/feed/" rel="self" type="application/rss+xml" />
-	<link>https://web-elixir.github.io/Troutier/</link>
+	<link>./../index.html</link>
 	<description>Un site utilisant WordPress</description>
 	<lastBuildDate>Tue, 12 Apr 2022 07:30:49 +0000</lastBuildDate>
 	<language>fr-FR</language>
@@ -21,31 +21,31 @@
 	<generator>https://wordpress.org/?v=6.0.3</generator>
 
 <image>
-	<url>https://web-elixir.github.io/Troutier/wp-content/uploads/2022/04/cropped-industrie-icon-32x32.png</url>
+	<url>./../wp-content/uploads/2022/04/cropped-industrie-icon-32x32.png</url>
 	<title>Troutier</title>
-	<link>https://web-elixir.github.io/Troutier/</link>
+	<link>./../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Bonjour tout le monde !</title>
-		<link>https://web-elixir.github.io/Troutier/bonjour-tout-le-monde/</link>
-					<comments>https://web-elixir.github.io/Troutier/bonjour-tout-le-monde/#comments</comments>
+		<link>./../bonjour-tout-le-monde/index.html</link>
+					<comments>./../bonjour-tout-le-monde/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[elixir-admin]]></dc:creator>
 		<pubDate>Tue, 12 Apr 2022 07:30:49 +0000</pubDate>
 				<category><![CDATA[Non classé]]></category>
-		<guid isPermaLink="false">https://web-elixir.github.io/Troutier/?p=1</guid>
+		<guid isPermaLink="false">./../index.html?p=1</guid>
 
 					<description><![CDATA[<p>Bienvenue sur WordPress. Ceci est votre premier article. Modifiez-le ou supprimez-le, puis commencez à écrire !</p>
-<p>L’article <a rel="nofollow" href="https://web-elixir.github.io/Troutier/bonjour-tout-le-monde/">Bonjour tout le monde !</a> est apparu en premier sur <a rel="nofollow" href="https://web-elixir.github.io/Troutier">Troutier</a>.</p>
+<p>L’article <a rel="nofollow" href="./../bonjour-tout-le-monde/index.html">Bonjour tout le monde !</a> est apparu en premier sur <a rel="nofollow" href="./../index.html">Troutier</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Bienvenue sur WordPress. Ceci est votre premier article. Modifiez-le ou supprimez-le, puis commencez à écrire !</p>
-<p>L’article <a rel="nofollow" href="https://web-elixir.github.io/Troutier/bonjour-tout-le-monde/">Bonjour tout le monde !</a> est apparu en premier sur <a rel="nofollow" href="https://web-elixir.github.io/Troutier">Troutier</a>.</p>
+<p>L’article <a rel="nofollow" href="./../bonjour-tout-le-monde/index.html">Bonjour tout le monde !</a> est apparu en premier sur <a rel="nofollow" href="./../index.html">Troutier</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://web-elixir.github.io/Troutier/bonjour-tout-le-monde/feed/</wfw:commentRss>
+					<wfw:commentRss>./../bonjour-tout-le-monde/feed/index.html</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

@@ -9,7 +9,7 @@
 	<title>
 	Commentaires pour Troutier	</title>
 	<atom:link href="http://localhost/troutier-local/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://web-elixir.github.io/Troutier/</link>
+	<link>./../../index.html</link>
 	<description>Un site utilisant WordPress</description>
 	<lastBuildDate>Tue, 12 Apr 2022 07:30:49 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Commentaires sur Bonjour tout le monde ! par Un commentateur WordPress		</title>
-		<link>https://web-elixir.github.io/Troutier/bonjour-tout-le-monde/#comment-1</link>
+		<link>./../../bonjour-tout-le-monde/index.html#comment-1</link>
 
 		<dc:creator><![CDATA[Un commentateur WordPress]]></dc:creator>
 		<pubDate>Tue, 12 Apr 2022 07:30:49 +0000</pubDate>
-		<guid isPermaLink="false">https://web-elixir.github.io/Troutier/?p=1#comment-1</guid>
+		<guid isPermaLink="false">./../../index.html?p=1#comment-1</guid>
 
 					<description><![CDATA[Bonjour, ceci est un commentaire.
 Pour débuter avec la modération, la modification et la suppression de commentaires, veuillez visiter l’écran des Commentaires dans le Tableau de bord.
