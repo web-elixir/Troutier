@@ -14,6 +14,15 @@
     font-weight: normal; 
 }
 
+.img-fluid {
+	display: flex !important;
+}
+  
+img{
+	margin: auto !important; 
+}
+
+  
 .catalogue {
 	height:300px;
 	padding:0.7rem;
@@ -116,7 +125,6 @@
   
 
 
-
 /* Produit */
 
 @media only screen and (max-width: 1080px) {
@@ -124,5 +132,3 @@
 		flex-wrap:wrap;
 	}
 }
-
-
